@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.navbar{
+  background-color: #252525;
+  padding: 5px 30px !important;
+}
+.navbar-brand{
+  color: #fffdfd !important;
+}
+.nav-link{
+  color: #c2b9b9 !important;
+}
+
+.navbar-nav{
+  position: absolute;
+  right: 15px;
+}
+.fa-solid{
+  font-size: 14px;
+}
+h1{
+  font-size: 18px !important;
+  text-align: left !important;
+}
+.img-fluid{
+  height: 100% !important;
+  width: 100% !important;
+  object-fit: cover;
+}

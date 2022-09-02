@@ -64,3 +64,7 @@ h1{
   width: 100% !important;
   object-fit: cover;
 }
+.product_img{
+  height: 500 !important;
+  object-fit: fill;
+}

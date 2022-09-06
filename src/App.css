@@ -58,6 +58,8 @@
 h1{
   font-size: 18px !important;
   text-align: left !important;
+  color: #000 !important;
+  text-decoration: none;
 }
 .img-fluid{
   height: 100% !important;
